@@ -1,2 +1,3 @@
-# website-template
-A template to create all public facing sites
+# common-msw-handlers
+
+Contains common MSW handler, to be shared between all RDS projects
